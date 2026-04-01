@@ -46,10 +46,6 @@ A few products contribute significantly higher profit margins, highlighting key 
 Power BI – Dashboard development
 DAX – Measures and calculations
 Data Modeling – Relationships and transformations
-Retail Dataset (Superstore)
-<img width="1412" height="788" alt="Screenshot 2026-04-01 110648" src="https://github.com/user-attachments/assets/dd369a27-52e2-4e5c-8a02-30951279ac8e" />
-<img width="1412" height="788" alt="Screenshot 2026-04-01 110648" src="https://github.com/user-attachments/assets/b4f2f110-c879-48f4-9130-c8d30ae860d0" />
-
 
 Use this while creating the repo:
 
